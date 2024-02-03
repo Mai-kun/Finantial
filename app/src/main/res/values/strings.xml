@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">finantial</string>
+    <string name="wallet">Кошелек</string>
+    <string name="Exchange">Обмен</string>
+    <string name="Browser">Браузер</string>
+    <string name="Market">Рынок</string>
+    <string name="Settings">Настройки</string>
+    <string name="button_head">Активы               NTF коллекции</string>
+    <string name="_0_014_btc">0,014 BTC</string>
+    <string name="_50_66">50,66 $</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="_2_220_56_4_45">2 220,56$ + 4,45%</string>
+    <string name="_0_052739_eth">0.052739 ETH</string>
+    <string name="_117_11">117,11$</string>
+    <string name="smart_chain">Smart Chain</string>
+    <string name="pancakeswap">PancakeSwap</string>
+    <string name="_306_82_4_17">306,82 $ + 4,17%</string>
+    <string name="_124_93463_bnb">124,93463 BNB</string>
+    <string name="_38_332_44">38 332,44 $</string>
+    <string name="_14_47_5_78">14,47 $ + 5,78 %</string>
+    <string name="_4_382_323_cake">4 382,323 CAKE</string>
+    <string name="_63_412_21">63 412,21 $</string>
+    <string name="binance_usd">Binance USD</string>
+    <string name="_1_00_0_01">1,00 $ - 0,01 %</string>
+    <string name="_8_253_32_busd">8 253,32 BUSD</string>
+    <string name="_8_253_32">8 253,32 $</string>
+    <string name="all_balance">Общий баланс</string>
+    <string name="_145_745">145 745$</string>
+    <string name="_1768_25_12_1">+1768,25$ (12,1%) за день</string>
+</resources>
